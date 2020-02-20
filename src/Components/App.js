@@ -86,6 +86,10 @@ function App() {
     }
   };
 
+  // const errorHandler =()=>{
+    
+  // }
+
   return (
     <div className="App">
       <div className="div-1">
@@ -120,6 +124,7 @@ function App() {
             className={"string"}
             opts={opts}
             onEnd={func}
+            onError={()=>{func()}} 
           />
         </div>
       </div>
