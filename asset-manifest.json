@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/youtube-playlist/static/css/main.da326a8e.chunk.css",
-    "main.js": "/youtube-playlist/static/js/main.14e67a18.chunk.js",
-    "main.js.map": "/youtube-playlist/static/js/main.14e67a18.chunk.js.map",
-    "runtime-main.js": "/youtube-playlist/static/js/runtime-main.0faee72b.js",
-    "runtime-main.js.map": "/youtube-playlist/static/js/runtime-main.0faee72b.js.map",
-    "static/js/2.43cfafa2.chunk.js": "/youtube-playlist/static/js/2.43cfafa2.chunk.js",
-    "static/js/2.43cfafa2.chunk.js.map": "/youtube-playlist/static/js/2.43cfafa2.chunk.js.map",
-    "index.html": "/youtube-playlist/index.html",
-    "precache-manifest.679dc4cbf3c9a1b4574b39be0f1921fa.js": "/youtube-playlist/precache-manifest.679dc4cbf3c9a1b4574b39be0f1921fa.js",
-    "service-worker.js": "/youtube-playlist/service-worker.js",
-    "static/css/main.da326a8e.chunk.css.map": "/youtube-playlist/static/css/main.da326a8e.chunk.css.map",
-    "static/js/2.43cfafa2.chunk.js.LICENSE.txt": "/youtube-playlist/static/js/2.43cfafa2.chunk.js.LICENSE.txt"
+    "main.css": "/yougittube-playlist/static/css/main.2124aab0.chunk.css",
+    "main.js": "/yougittube-playlist/static/js/main.4040defa.chunk.js",
+    "main.js.map": "/yougittube-playlist/static/js/main.4040defa.chunk.js.map",
+    "runtime-main.js": "/yougittube-playlist/static/js/runtime-main.b7c52e4b.js",
+    "runtime-main.js.map": "/yougittube-playlist/static/js/runtime-main.b7c52e4b.js.map",
+    "static/js/2.435042b0.chunk.js": "/yougittube-playlist/static/js/2.435042b0.chunk.js",
+    "static/js/2.435042b0.chunk.js.map": "/yougittube-playlist/static/js/2.435042b0.chunk.js.map",
+    "index.html": "/yougittube-playlist/index.html",
+    "precache-manifest.052bad0a61866534277aa11f26d2f96a.js": "/yougittube-playlist/precache-manifest.052bad0a61866534277aa11f26d2f96a.js",
+    "service-worker.js": "/yougittube-playlist/service-worker.js",
+    "static/css/main.2124aab0.chunk.css.map": "/yougittube-playlist/static/css/main.2124aab0.chunk.css.map",
+    "static/js/2.435042b0.chunk.js.LICENSE.txt": "/yougittube-playlist/static/js/2.435042b0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0faee72b.js",
-    "static/js/2.43cfafa2.chunk.js",
-    "static/css/main.da326a8e.chunk.css",
-    "static/js/main.14e67a18.chunk.js"
+    "static/js/runtime-main.b7c52e4b.js",
+    "static/js/2.435042b0.chunk.js",
+    "static/css/main.2124aab0.chunk.css",
+    "static/js/main.4040defa.chunk.js"
   ]
 }
